@@ -1,0 +1,15 @@
+{
+  "name"       : "jmau/wp-never-bad-images",
+  "description": "WordPress plugin that pretendq to prevent any 404 img from appearing in your CONTENT !",
+  "type"       : "wordpress-plugin",
+  "license"    : "GPL-3.0+",
+  "authors"    : [
+    {
+      "name"    : "Julien Maury",
+      "homepage": "https://julien-maury.com/"
+    }
+  ],
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
